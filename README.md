@@ -5,7 +5,7 @@
 ![Final Results](final-result.png)
 
 
-All the python packages required are in the `requirements.txt` you just need to install them by running the following command in your shell:
+All the python packages required are in the `./training/requirements.txt` file, you just need to install them by running the following command in your shell:
 
 ```
 pip install -r requirements.txt
